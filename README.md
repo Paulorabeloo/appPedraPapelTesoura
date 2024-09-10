@@ -12,3 +12,9 @@
 - Spock vaporiza Pedra
 - Pedra quebra Tesoura
 ### O resultado deve ser exibido com a escolha do usuário, a escolha do computador e o vencedor (ganhou, perdeu ou empatou).
+
+![image](https://github.com/user-attachments/assets/9bd91555-eed3-46da-972c-0665cbf219da) ![image](https://github.com/user-attachments/assets/4d866120-5d35-4461-8941-247c6deb9ea1) ![image](https://github.com/user-attachments/assets/f86e6bb4-6550-4c31-a63d-c3e1b2987977) ![image](https://github.com/user-attachments/assets/4113f059-9efe-4631-9631-60ee58777124)
+
+
+
+
